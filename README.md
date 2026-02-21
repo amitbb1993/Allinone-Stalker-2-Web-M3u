@@ -25,7 +25,7 @@
 
 1. Download the [Script Zip File](https://github.com/amitbb1993/jiotv.be/archive/refs/heads/main.zip)
 
-2. Extract all files into the `htdocs` under `zee5` folder in localhost:
+2. Extract all files into the `htdocs` under `s2w` folder in localhost:
 
    ```
    📂 FileManager
