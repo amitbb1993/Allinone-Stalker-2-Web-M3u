@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/C57L4c8R/68747470733a2f2f692e6962622e636f2f563968784677502f6a696f74762d62652e706e67.png" width="100" alt="Jiotv.be Logo">
+  <img src="https://i.ibb.co/C57L4c8R/68747470733a2f2f692e6962622e636f2f563968784677502f6a696f74762d62652e706e67.png" width="100" alt="Allinone-Stalker-2-Web-M3u Logo">
   
   <h4>⚡ PHP Script For Grabbing Streaming Links and Play it</h4>
   <p>This Script Works on any device, Any OS, Any IPTV player Through LocalHost</p>
@@ -13,7 +13,7 @@
 
 1. **For Mobiles** → KSWEB PRO v3.988
    ```
-   http://allinonereborn.online/ksweb/ksweb.apk
+   https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/releases/download/ksweb-v3.988/ksweb_v3.988.apk
    ```
 
 2. **For PC (Windows)** → XAMPP
@@ -23,7 +23,7 @@
 
 ### 🅱️ Download and Setup Script
 
-1. Download the [Script Zip File](https://github.com/amitbb1993/jiotv.be/archive/refs/heads/main.zip)
+1. Download the [Script Zip File](https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/archive/refs/heads/main.zip)
 
 2. Extract all files into the `htdocs` under `s2w` folder in localhost:
 
@@ -51,7 +51,7 @@ In VLC, Tivimate or OTT Navigator, use this URL format:
 http://localhost:8000/s2w/playlist.php
 ```
 
-🎉 **Hurray!** Now Play & Enjoy Jiotv.be Channels!
+🎉 **Hurray!** Now Play & Enjoy Allinone-Stalker-2-Web-M3u Channels!
 
 ## ➡️ Script Features
 
@@ -86,7 +86,7 @@ http://localhost:8000/s2w/playlist.php
 
 This project is for **educational purposes only** to demonstrate authentication and IPTV streaming mechanics. I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal.
 
-This code is protected under the [GPL License](https://github.com/amitbb1993/jiotv.be/blob/main/LICENSE).
+This code is protected under the [GPL License](https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/blob/main/LICENSE).
 
 ---
 
