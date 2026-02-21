@@ -13,7 +13,7 @@
 
 1. **For Mobiles** → KSWEB PRO v3.988
    ```
-   https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/releases/download/ksweb-v3.988/ksweb_v3.988.apk
+   [Download Apk File] (https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/releases/download/ksweb-v3.988/ksweb_v3.988.apk)
    ```
 
 2. **For PC (Windows)** → XAMPP
