@@ -61,8 +61,11 @@ Open folder url in browser like:
 ```
 http://localhost:8000/s2w
 ```
+Enter access pin, enter stalker details save details, boom🎉
 
 🎉 **Hurray!** Now Play & Enjoy jiotv.be Channels!
+
+## 🚸 If Captcha not showing in your case watch tutorial video must,
 
 ## ➡️ Script Features
 
