@@ -11,7 +11,7 @@
 
 ### 1️⃣ Download PHP Web Server
 
-- **For Mobiles:** [KSWEB PRO v3.987](https://tsneh.vercel.app/ksweb_3.987.apk)
+- **For Mobiles:** [KSWEB PRO v3.988](https://github.com/amitbb1993/Allinone-Stalker-2-Web-M3u/releases/download/ksweb-v3.988/ksweb_v3.988.apk)
 - **For PC (Windows):** [XAMPP](https://www.apachefriends.org/download.html)
 
 ### 🅱️ Download and Setup Script
