@@ -7,6 +7,24 @@
   <p>💫 Consider Giving STAR to This Repository 🤗</p>
 </div>
 
+<div align="center">
+
+## 📺 Video Tutorials
+
+<a href="https://www.youtube.com/watch?v=HvCik59pcjg" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20Watch%20Tutorial%20(PC)-Click%20Here-red?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/reel/910883331799544" target="_blank">
+  <img src="https://img.shields.io/badge/📱%20Watch%20Tutorial%20(Mobile)-Click%20Here-blue?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</div>
+
+---
+
 ## 🎯 How to Use
 
 ### 1️⃣ Download PHP Web Server
