@@ -1,4 +1,5 @@
 <?php
+// Admin : https://t.me/allinonereborn123
 
 error_reporting(0);
 
@@ -282,5 +283,6 @@ function fixlogoissue($logo)
 }
 
 include("_inc.upstrm.php");
+
 
 ?>
