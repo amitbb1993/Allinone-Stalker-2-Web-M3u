@@ -44,7 +44,7 @@ In VLC, Tivimate or OTT Navigator, use this URL format:
 http://localhost:8000/s2w/playlist.php
 ```
 
-🎉 **Hurray!** Now Play & Enjoy Allinone-Stalker-2-Web-M3u Channels!
+🎉 **Hurray!** Now Play & Enjoy jiotv.be Channels!
 
 ## ➡️ Script Features
 
