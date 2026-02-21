@@ -54,12 +54,12 @@
 
 4. The setup is complete, and the script is ready to use!
 
-## ▶️ How to Access M3U Playlist
+## ▶️ How to Access Login Page
 
-In VLC, Tivimate or OTT Navigator, use this URL format:
+Open folder url in browser like:
 
 ```
-http://localhost:8000/s2w/playlist.php
+http://localhost:8000/s2w
 ```
 
 🎉 **Hurray!** Now Play & Enjoy jiotv.be Channels!
